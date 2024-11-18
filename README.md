@@ -1,4 +1,5 @@
-Joshua Daniel Reyes Tellez SMSS
+Joshua Daniel Reyes Tellez SMSS165323
+
 Berta Elizabeth Mejicanos Rivas SMSS047723
 
 Descripcion del codigo.
